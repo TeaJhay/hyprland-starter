@@ -37,6 +37,8 @@ installer_yay=(
     "wlogout"
     "vesktop"
     "brave-bin"
+    "hyprshot"
+    "hyprshot-gui"
 )
 
 # PLEASE NOTE: Add more packages at the end of the following command
