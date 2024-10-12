@@ -58,6 +58,11 @@ source install/$installer/install_packages.sh
 source install/includes/backup.sh
 
 # ----------------------------------------------------- 
+# set Theme preferences
+# ----------------------------------------------------- 
+source install/includes/theme.sh
+
+# ----------------------------------------------------- 
 # Restore settings
 # ----------------------------------------------------- 
 source install/includes/restore.sh
