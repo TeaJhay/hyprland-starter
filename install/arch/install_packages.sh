@@ -26,10 +26,17 @@ installer_packages=(
     "libadwaita"
     "jq"
     "python-gobject"
+    "nwg-look"
+    "gvfs-smb"
+    "gnome-themes-extra"
+    "man-db"
+    "links"
 )
 
 installer_yay=(
-    "wlogout" 
+    "wlogout"
+    "vesktop"
+    "brave-bin"
 )
 
 # PLEASE NOTE: Add more packages at the end of the following command
