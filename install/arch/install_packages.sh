@@ -31,6 +31,7 @@ installer_packages=(
     "gnome-themes-extra"
     "man-db"
     "links"
+    "pwvucontrol"
 )
 
 installer_yay=(
